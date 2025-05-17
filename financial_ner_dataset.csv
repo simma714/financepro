@@ -1,0 +1,12 @@
+text,entities
+Apple Inc. announced $90 billion in revenue for Q1 2023.,"[{'start': 0, 'end': 10, 'label': 'ORG'}, {'start': 21, 'end': 32, 'label': 'MONEY'}, {'start': 52, 'end': 60, 'label': 'DATE'}]"
+Tesla gained 5% after the earnings call.,"[{'start': 0, 'end': 5, 'label': 'ORG'}, {'start': 13, 'end': 15, 'label': 'PERCENT'}, {'start': 25, 'end': 38, 'label': 'EVENT'}]"
+The Federal Reserve increased interest rates by 0.25%.,"[{'start': 4, 'end': 20, 'label': 'ORG'}, {'start': 50, 'end': 56, 'label': 'PERCENT'}]"
+Amazon's market value reached $1.7 trillion in 2022.,"[{'start': 0, 'end': 6, 'label': 'ORG'}, {'start': 32, 'end': 44, 'label': 'MONEY'}, {'start': 48, 'end': 52, 'label': 'DATE'}]"
+Meta Platforms saw a 12% jump in shares after Q3 earnings.,"[{'start': 0, 'end': 14, 'label': 'ORG'}, {'start': 20, 'end': 24, 'label': 'PERCENT'}, {'start': 50, 'end': 61, 'label': 'EVENT'}]"
+Microsoft declared a quarterly dividend of $0.68 per share.,"[{'start': 0, 'end': 9, 'label': 'ORG'}, {'start': 44, 'end': 49, 'label': 'MONEY'}]"
+Goldman Sachs projected an increase in GDP by 2.3%.,"[{'start': 0, 'end': 13, 'label': 'ORG'}, {'start': 51, 'end': 55, 'label': 'PERCENT'}]"
+Alphabet's revenue hit $76 billion in Q2 2023.,"[{'start': 0, 'end': 8, 'label': 'ORG'}, {'start': 23, 'end': 34, 'label': 'MONEY'}, {'start': 38, 'end': 46, 'label': 'DATE'}]"
+Netflix subscriber growth slowed in late 2021.,"[{'start': 0, 'end': 7, 'label': 'ORG'}, {'start': 40, 'end': 48, 'label': 'DATE'}]"
+JPMorgan Chase raised its dividend to $1.00 in July 2023.,"[{'start': 0, 'end': 15, 'label': 'ORG'}, {'start': 39, 'end': 44, 'label': 'MONEY'}, {'start': 48, 'end': 57, 'label': 'DATE'}]"
+Zoom shares dropped 8% after the fiscal report.,"[{'start': 0, 'end': 4, 'label': 'ORG'}, {'start': 21, 'end': 23, 'label': 'PERCENT'}, {'start': 35, 'end': 48, 'label': 'EVENT'}]"
